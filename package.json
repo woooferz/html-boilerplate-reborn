@@ -9,6 +9,12 @@
     "categories": [
         "Snippets"
     ],
+    "publisher": "wooferz",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/woooferz/html-boilerplate-reborn.git"
+      },
+      "license": "MIT",
     "contributes": {
         "snippets": [
             {
